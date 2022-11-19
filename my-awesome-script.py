@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("Howdy, World!")
-=======
-print("Hajimemasathi sekai!")
->>>>>>> feature/enhancement-2
+print("Hello! World, we are one!.")
